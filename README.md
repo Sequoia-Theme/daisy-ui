@@ -1,7 +1,7 @@
 
 ![Midnight](https://raw.githubusercontent.com/Sequoia-Theme/assets/main/githubHeader.png)
 # Sequoia for Linear App
-Sequoia theme adapted to Linear App https://linear.app/
+Sequoia theme adapted to Daisy UI https://daisyui.com
 
 
 LEarn how to use it here:
